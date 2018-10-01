@@ -43,7 +43,3 @@ upon surprise ; and as Thieves are commonly
 better mounted than those they rob, he very
 easily makes his Escape, and flies beyond Persuit of Huon-cries, and there is no Possibility
 of overtaking him.
-
-## Characteristics
-
-Lorem ipsum dolor sit amet.

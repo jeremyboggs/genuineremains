@@ -3,3 +3,7 @@ baseurl: ""
 sass:
   sass_dir: _sass
   style: compressed
+
+collections:
+  characters:
+    output: true
