@@ -40,5 +40,11 @@
     background: black;
     color:white;
     padding: 1em 3em;
+
+    a,:link {
+        color: white;
+        color: rgba(255,255,255,.95);
+        text-decoration:none;
+    }
 }
 
